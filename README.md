@@ -9,11 +9,7 @@ To be determined
 # Data Understanding
 ## Data collection
 Data was collected from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
-## Data exploration
-Analyzing the data to identify patterns, missing values, and anomalies.
-Univariate Analysis
-Bivariate Analysis
-Multivariate Analysis
+
 # Data Preparation
 ## Cleaning
 Handling missing values, duplicates, or errors in the data.
@@ -22,3 +18,8 @@ Normalizing, scaling, or encoding data
 
 ## Feature engineering
 Creating new variables or features(if any) that better represent the problem. 
+## Data exploration
+Analyzing the data to identify patterns, missing values, and anomalies.
+Univariate Analysis
+Bivariate Analysis
+Multivariate Analysis
